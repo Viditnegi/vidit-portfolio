@@ -15,7 +15,7 @@ export const About = () => {
           <p className={`${styles.aboutText}`} style={{ fontWeight: 400 }}>
             <span style={{ fontSize: '2em' }}>H</span>ey there! I&apos;m Vidit Singh Negi, and I&apos;m a B.Tech - Computer Science graduate from Jaypee Institute of Information Technology, Noida.
             <br/><br/>
-            I have experience working with AI/ML applications, with a focus on model development and optimization, and have in depth knowledge about AI/ML. I&apos;m passionate about creating clever and impactful models that provides great value in the society.
+            I have experience working with AI/ML applications, with a focus on model development and optimization, and have in depth knowledge about AI/ML. I&apos;m passionate about creating clever and impactful models that provide great value in the industry.
           </p>
         </Reveal>
           <Reveal>
