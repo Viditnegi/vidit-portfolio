@@ -42,7 +42,7 @@ const experience = [
     time: "June 2024 - July 2024",
     location: "Remote",
     description:
-      "orked with building POS systems. Built REST-APIs with Flask, utilized MongoDB for data storage, did automation using Selenium, and trained ML models for classification. The automation pipeline saved many hours of manual sales report extraction, improving productivity by 25%. Made Flask APIs to handle requests, worked with MongoDB and AWS S3 to store the sales reports.",
+      "Worked with building POS systems. Built REST-APIs with Flask, utilized MongoDB for data storage, did automation using Selenium, and trained ML models for classification. The automation pipeline saved many hours of manual sales report extraction, improving productivity by 25%. Made Flask APIs to handle requests, worked with MongoDB and AWS S3 to store the sales reports.",
     tech: ["Python", "Flask", "MongoDB ", "Selenium", "AWS"],
   },
   {
