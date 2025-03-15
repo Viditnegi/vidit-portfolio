@@ -23,7 +23,7 @@ export const Hero = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutCopy} style={{ fontWeight: 550 }}>
-              I make state-of-the-art AI based software applications that takes things to the next level. I also create interesting self projects in my spare time and do problem solving on Leetcode.
+              I make state-of-the-art AI based software applications that take things to the next level. I also create interesting self projects in my spare time and do problem solving on Leetcode.
               Let&apos;s connect!
             </p>
           </Reveal>
