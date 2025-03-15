@@ -33,7 +33,7 @@ export const About = () => {
           <Reveal>
             <p className={styles.aboutText}style={{ fontWeight: 400 }}>
               I&apos;m always looking for new challenges and opportunities to learn and grow as a developer. 
-              If you&apos;re interested in working together or have an opening that might be a good fit me, please feel free to reach out!
+              If you&apos;re interested in working together or have an opening that might be a good fit for me, please feel free to reach out!
               🔗
             </p>
           </Reveal>
