@@ -14,7 +14,7 @@ export const Contact = () => {
         </Reveal>
         <Reveal width="100%">
           <p className={styles.contactCopy}>
-            Send an email if you want to connect! You can also find me on{" "}
+            Send me an email if you want to connect! You can also find me on{" "}
             <Link
               href="https://www.linkedin.com/in/vidit-negi-7975871b5/"
               target="_blank"

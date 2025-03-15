@@ -26,14 +26,14 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}style={{ fontWeight: 400 }}>
-              When I&apos;m not coding, I enjoy spending time to make music and playing instruments. 
+              When I&apos;m not coding, I enjoy spending time making music and playing instruments. 
               I believe that maintaining a healthy work-life balance is crucial for staying productive and motivated.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}style={{ fontWeight: 400 }}>
               I&apos;m always looking for new challenges and opportunities to learn and grow as a developer. 
-              If you&apos;re interested in working together or have an opening that I might like, please feel free to reach out!
+              If you&apos;re interested in working together or have an opening that might be a good fit me, please feel free to reach out!
               🔗
             </p>
           </Reveal>
