@@ -42,9 +42,9 @@ export const Stats = () => {
             <span>Learning</span>
           </h4>
           <div className={styles.statGrid}>
+            <span className="chip">TypeScript</span>
             <span className="chip">CUDA</span>
             <span className="chip">Triton</span>
-            {/* <span className="chip">TypeScript</span> */}
             <span className="chip">Kubernetes</span>
           </div>
         </div>
