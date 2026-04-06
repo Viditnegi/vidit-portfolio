@@ -14,9 +14,28 @@ export const Experience = () => {
 
 const experience = [
   {
+    title: "Clarivate",
+    position: "Associate Data Scientist",
+    time: "May 2025 - Present",
+    location: "Noida",
+    description:
+      "Build an end-to-end Text-to-SQL based Agentic Chatbot for Derwent Patent Analytics. Utilized Langchain/Langgraph, MLflow and AWS Services for developement. Used Promptfoo And Ragas for automated security assessment. Made multiple RAG based tools, secured the chatbot by using AWS bedrock Guardrails, integrated buffered streaming for smooth user experience and deployed on ECS Cluster. Worked with AI Classifier, a massive project on AWS, used Step Functions for orchestration, Sagemaker for BERT hierarchical training and Inference, also used Lambda and SQS to make the pipeline.",
+    tech: [
+      "Langchain",
+      "Langgraph",
+      "FastAPI",
+      "AWS SageMaker",
+      "AWS Bedrock",
+      "Promptfoo",
+      "Ragas",
+      "MLflow",
+      "Transformers",
+    ],
+  },
+  {
     title: "Monotype",
     position: "AI/ML Trainee",
-    time: "Aug 2024 - Present",
+    time: "Aug 2024 - May 2025",
     location: "Noida",
     description:
       "Owned many projects and collaborated across multiple teams. Researched, built, trained, optimized and deployed GenAI models including Diffusion models, GANs and Transformers, using Pytorch, FastAPI, docker, Wandb, AWS/Azure. Made Bert-Diffusion Model for font generation, reduced designing time by 30% for designers.  -  Patent. Built custom 3-staged diffusion model for Japanese fonts generating characters with >90% IOU (Improved by 15%).",

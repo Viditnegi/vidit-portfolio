@@ -13,15 +13,15 @@ export const About = () => {
         <div>
         <Reveal>
           <p className={`${styles.aboutText}`} style={{ fontWeight: 400 }}>
-            <span style={{ fontSize: '2em' }}>H</span>ey there! I&apos;m Vidit Singh Negi, and I&apos;m a B.Tech - Computer Science graduate from Jaypee Institute of Information Technology, Noida.
+            <span style={{ fontSize: '2em' }}>H</span>ey there! I&apos;m Vidit Singh Negi, and I am a Data Scientist currently working at Clarivate. I Studied Computer Science(Btech) from Jaypee Institute of Information Technology, Noida.
             <br/><br/>
-            I have experience working with AI/ML applications, with a focus on model development and optimization, and have in depth knowledge about AI/ML. I&apos;m passionate about creating clever and impactful models that provide great value in the industry.
+            I specialize in building AI/ML Solutions and Agentic Workflows, with a focus on development, optimization and Deployement. I&apos;m passionate about creating clever and impactful models that provide great value in the industry.
           </p>
         </Reveal>
           <Reveal>
             <p className={styles.aboutText}style={{ fontWeight: 400 }}>
-              I code in Python and C++, and have experience with Pytorch, Tensorflow, Langchain, Flask, FastAPI and various data processing libraries such as Panda, Numpy, OpenCV and more. 
-              I&apos;ve also worked with Devops/MLops tools like Docker, Wandb, databases like MongoDB, MySql, Pinecone, Cloud Services like Azure, AWS, Runpod.
+              I code in Python and C++, and have experience with Langchain/Langgraph Ecosystem, Pytorch, Tensorflow, Flask, FastAPI and various data processing libraries such as Panda, Numpy, OpenCV and more. 
+              I&apos;ve also worked with services provided by AWS and Azure focusing on AI developement, like SageMaker, Bedrock, Guardrails, Step Functions, Lambda, SQS, and more. I Also have experience with Databases like Aurora Postgres, Redshift, MongoDB, and vector databases like Qdrant, Chroma and Pinecone.
             </p>
           </Reveal>
           <Reveal>
@@ -33,7 +33,7 @@ export const About = () => {
           <Reveal>
             <p className={styles.aboutText}style={{ fontWeight: 400 }}>
               I&apos;m always looking for new challenges and opportunities to learn and grow as a developer. 
-              If you&apos;re interested in working together or have an opening that might be a good fit for me, please feel free to reach out!
+              If you&apos;re interested in working together or have an opportunity that might be a good fit for me, please feel free to reach out!
               🔗
             </p>
           </Reveal>

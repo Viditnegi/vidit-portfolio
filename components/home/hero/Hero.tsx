@@ -18,12 +18,12 @@ export const Hero = () => {
           </Reveal>
           <Reveal>
             <h2 className={styles.subTitle}>
-              I&apos;m an <span>AI Software Engineer</span>
+              I&apos;m a <span>Data Scientist</span>
             </h2>
           </Reveal>
           <Reveal>
             <p className={styles.aboutCopy} style={{ fontWeight: 550 }}>
-              I make state-of-the-art AI based software applications that take things to the next level. I also create interesting self projects in my spare time and do problem solving on Leetcode.
+              I make impactful AI/ML based solutions that take things to the next level. I also create interesting self projects in my spare time and do problem solving on Leetcode.
               Let&apos;s connect!
             </p>
           </Reveal>
